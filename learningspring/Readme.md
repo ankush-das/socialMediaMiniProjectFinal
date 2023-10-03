@@ -64,11 +64,11 @@ The Favorite Post Feed is a dedicated section of your application where users ca
 
 ## Class Diagram
 
-[https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/classDiagram.png]
+![https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/classDiagram.png](https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/classDiagram.png)
 
 ## Use Case Diagram
 
-[https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/useCaseDiagram.png]
+![https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/useCaseDiagram.png] (https://github.com/ankush-das/socialMediaMiniProjectFinal/blob/main/learningspring/useCaseDiagram.png)
 
 ## Documentation Created By
 
